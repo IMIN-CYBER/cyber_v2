@@ -26,7 +26,7 @@ $ git clone https://github.com/IMIN-CYBER/cyber_v2
 
 $ ls
 
-$ cd cyber_v2.py
+$ cd cyber_v2
 
 $ git pull
 
