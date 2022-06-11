@@ -1,6 +1,7 @@
 #FREE TOOLS CRACK V2 KONT*L#
 
 $ termux-change-repo 
+
 -> piLih ok - ok ngent*t... !!
 
 $ pkg update
