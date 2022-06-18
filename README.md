@@ -23,7 +23,11 @@ $ ls
 
 $ cd cyber_v2
 
+$ ls
+
 $ git pull
+
+$ ls
 
 $ python cyber_v2.py
 
