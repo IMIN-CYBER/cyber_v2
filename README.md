@@ -1,6 +1,6 @@
 #FREE TOOLS CRACK V2 KONT*L
 
-#Jangan Lupa Kasih ⭐bintang Nya Oke 😇🙏
+#Jangan Lupa Kasih ⭐bintang Nya 😇🙏
 
 $ pkg update
 
